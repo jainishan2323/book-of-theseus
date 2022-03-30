@@ -1,0 +1,9 @@
+Async defer
+<head>
+    <link 1 />
+    <link 2 async />
+    <script 1>
+    </script 2 defer>
+    <h1>Manas</h1>
+    <script 3 async defer /> 
+</head> 
