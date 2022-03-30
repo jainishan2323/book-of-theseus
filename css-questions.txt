@@ -1,0 +1,5 @@
+1. Center align a div
+2. Create a triangle
+3. Order the divs
+4. Circle on click turn into various things based on click
+5. 
